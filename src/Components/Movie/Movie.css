@@ -1,0 +1,9 @@
+.card-content-link a:hover {
+    text-decoration: none;
+}
+
+.btn-floating.btn-large {
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+}

@@ -1,0 +1,8 @@
+.nav-wrapper a {
+    font-family: 'Monoton', cursive;
+}
+
+.nav-wrapper a:hover {
+    text-decoration: none;
+    color: #cfd8dc;
+}
